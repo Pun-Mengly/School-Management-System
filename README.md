@@ -6,3 +6,10 @@
      1. CountStudentsByGender
      2. SearchStudentOnCourse
      3. TotalAttendance
+- Include Sample API for Testing with your tool. 
+
+** Resource 
+    + IDE: SQL Server 14, Visual Studio 2019.
+    + Language: C#.
+    + Framework: Entity Framework.
+    + Query Langyuage: LINGQ(Language Intergrate Query) and SQL(Structure Query Language).
