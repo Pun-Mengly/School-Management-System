@@ -11,7 +11,7 @@
 # Resource 
      . IDE: SQL Server 14, Visual Studio 2019.
      . Language: C#.
-     . Framework: Entity Framework.
+     . Framework: Entity Framework Core.
      . Web Server: ASP.Net Core Version 5.0.2.
      . Query Language: LINGQ(Language Intergrate Query) and SQL(Structure Query Language).
-     . Tool: Postman, Insomnia.
+     . Tool: Postman and Insomnia.
